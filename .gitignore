@@ -128,7 +128,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -142,6 +141,7 @@ venv.bak/
 
 # Rope project settings
 .ropeproject
+temp_auto_push.bat
 
 # mkdocs documentation
 /site
@@ -161,7 +161,6 @@ dmypy.json
 cython_debug/
 
 # Editors
-.vscode/
 .idea/
 
 # Vagrant
@@ -262,7 +261,6 @@ celerybeat-schedule
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -288,3 +286,6 @@ venv.bak/
 dmypy.json
 
 .cursor/
+branch_structure.json
+config.bat
+node_modules
