@@ -161,7 +161,6 @@ dmypy.json
 cython_debug/
 
 # Editors
-.vscode/
 .idea/
 
 # Vagrant
@@ -288,3 +287,6 @@ venv.bak/
 dmypy.json
 
 .cursor/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
